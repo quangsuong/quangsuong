@@ -17,17 +17,6 @@
 * 🎓 I'm a Computer Science student (graduating in October 2021)
 * 🌐 You can see some of my projects on [my portfolio](https://nts.aedev.net/)
 * 📺 I make web development and tech tutorials on [AeDev.Net](https://aedev.net)
-
-## 🔥 My contribution streak
-
-<p align="center">
-  <a href="https://github.com/quangsuong/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=quangsuong#version3"/>
-  </a>
-</p>
-
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/quangsuong?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
-
 ## 🙋‍♂️ Connect with me:
 
 <p align="left">
@@ -54,29 +43,24 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/quangsuong/LaTeX-Gboard-Dictionary"><b>LaTeX-Gboard-Dictionary</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/quangsuong/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/quangsuong/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/quangsuong/react-native-skeleton"><b>react-native-skeleton</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/quangsuong/react-native-skeleton?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/quangsuong/react-native-skeleton?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/quangsuong/github-readme-streak-stats"><b>GitHub Readme Streak Stats</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/quangsuong/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/quangsuong/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/quangsuong/flutter-skeleton"><b>flutter-skeleton</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/quangsuong/flutter-skeleton?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/quangsuong/flutter-skeleton?style=flat-square&labelColor=343b41"/></td>
     </tr>
      <tr>
-      <td><a href="https://github.com/quangsuong/github-readme-youtube-stats"><b>GitHub Readme YouTube Stats</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/quangsuong/github-readme-youtube-stats?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/quangsuong/github-readme-youtube-stats?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/quangsuong/android-skeleton"><b>android-skeleton</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/quangsuong/android-skeleton?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/quangsuong/android-skeleton?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/quangsuong/unicode-formatter"><b>Unicode Formatter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/quangsuong/unicode-formatter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/quangsuong/unicode-formatter?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/quangsuong/Unedit-for-Reddit"><b>Unedit for Reddit</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/quangsuong/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/quangsuong/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/quangsuong/cognito-lambda-base"><b>cognito-lambda-base</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/quangsuong/cognito-lambda-base?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/quangsuong/cognito-lambda-base?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
@@ -91,44 +75,30 @@
 <table>
     <tbody>
         <tr>
-            <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
-            </td>
-            <td><a href="#"><img alt="HTML5" title="HTML5" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-            </td>
-            <td><a href="#"><img alt="CSS3" title="CSS3" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-            </td>
-            <td><a href="#"><img alt="PHP" title="PHP" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /></a>
-            </td>
-            <td><a href="#"><img alt="Python" title="Python" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
-            </td>
-        </tr>
-        <tr>
-            <td><a href="#"><img alt="C++" title="C++" height="28px"
-                        src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /></a></td>
-            <td><a href="#"><img alt="C#" title="C#" height="28px"
-                        src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" /></a></td>
-            <td><a href="#"><img alt="Java" title="Java" height="28px"
+          <td><a href="#"><img alt="Java" title="Java" height="28px"
                         src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></a></td>
             <td><a href="#"><img alt="Kotlin" title="Kotlin" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" /></a>
             </td>
             <td><a href="#"><img alt="Flutter" title="Flutter" height="28px"
                         src="https://img.icons8.com/color/48/000000/flutter.png" /></a></td>
+            <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
+            </td>
+            <td><a href="#"><img alt="HTML5" title="HTML5" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+            </td>
         </tr>
         <tr>
+         <td><a href="#"><img alt="CSS3" title="CSS3" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+            </td>
             <td><a href="#"><img alt="NodeJS" title="NodeJS" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
             </td>
             <td><a href="#"><img alt="SQL" title="SQL" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
             </td>
-            <td><a href="#"><img alt="Sheets" title="Sheets" height="28px"
-                        src="https://img.icons8.com/color/48/000000/google-sheets.png" /></a></td>
             <td><a href="#"><img alt="Markdown" title="Markdown" height="28px"
                         src="https://i.imgur.com/eO5z1xV.png" /></a></td>
             <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
@@ -152,10 +122,7 @@
 </table>
 
 ## 📈 Github Stats
-<p align="center">
-    <a href="https://github.com/quangsuong">
-        <img height="180em" src="https://streak-stats.demolab.com?user=quangsuong&theme=tokyonight&hide_border=true&border_radius="/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quangsuong&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangsuong&hide_border=true&layout=compact&theme=tokyonight&hide=jupyter%20notebook"/>
-    </a>
-</p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=quangsuong" alt="quangsuong" /></p>
+
+[![quangsuong's github stats](https://github-readme-stats.vercel.app/api?username=quangsuong&show_icons=true&show_icons=true&theme=buefy&count_private=true&cache_seconds=1800&line_height=24)](https://github.com/quangsuong)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quangsuong&show_icons=true&theme=buefy&layout=compact&cache_seconds=1800&langs_count=8)](https://github.com/quangsuong) 
