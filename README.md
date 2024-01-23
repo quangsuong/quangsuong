@@ -1,5 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
+<p align="center">
+  <a href="https://app.daily.dev/quangsuong"><img width="250px" height="auto" src="https://api.daily.dev/devcards/d1dc415138424082a95c64d16174d099.png?r=qy5" alt="Nguyễn Thụy Sướng's Dev Card"/></a>
+</p>
 <h3 align="center">Hey there, I'm <a href="https://nts.aedev.net/">Suong Nguyen</a> - @quangsuong <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 <p align="center">
@@ -10,13 +11,13 @@
 </p>
 
 ## 📖 About me
-
 * 💻 I'm a full stack web developer
 * 🎨 I'm a self-taught UI designer
 * 📱 I make apps for Android and iOS
 * 🎓 I'm a Computer Science student (graduating in October 2021)
 * 🌐 You can see some of my projects on [my portfolio](https://nts.aedev.net/)
 * 📺 I make web development and tech tutorials on [AeDev.Net](https://aedev.net)
+
 ## 🙋‍♂️ Connect with me:
 
 <p align="left">
